@@ -1,4 +1,3 @@
-# babihaorok.github.io
 <html>
 <head><title>first webpage</title></head>
 <CENTER>
@@ -9,5 +8,5 @@
 <OL>MANAGEMENT</OL>
 <OL>TEACHER</OL>
 <OL>STUDENT</OL></MARQUEE>
-<CENTER><IMG SRC="IMAGE/IMAGES.JPG"></CENTER>
+<CENTER><IMG SRC="IMAGE/IMAGES.JPG">
 <HR>
